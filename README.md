@@ -1,6 +1,6 @@
 # Attendance Management system Using Face Recognition
 
-# about
+# About
 This project involves building an attendance system which utilizes facial recognition to mark the presence, time-in of employees. It covers areas such as facial detection, alignment, and recognition, along with the development of a web application to cater to various use cases of the system. 
 This project intends to serve as an efficient substitute for traditional manual attendance systems.
 It can be used in corporate offices, schools, and organizations where security is essential.
@@ -11,7 +11,7 @@ Registration of new employees, Addition of photos to the training dataset, viewi
 It will enables an organization to maintain its records like in-time, out time, break time and attendance digitally.
 Digitalization of the system would also help in better visualization of the data using graphs to display the no. of employees present today, total work hours of each employee and their break time. 
 
-# scope of this project
+# Scope of this project
 Facial recognition is becoming more prominent in our society. 
 It has made major progress in the field of security.
 It is a very effective tool that can help low enforcers to recognize criminals and software companies are leveraging the technology to help users access the technology. 
